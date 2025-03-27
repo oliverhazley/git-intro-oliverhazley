@@ -6,6 +6,6 @@
     6  git remote add origin https://github.com/oliverhazley/git-intro-oliverhazley
     7  git push -u origin main
     9  history | grep git
-   12  git add notes.md
-   13  git commit -m "Add notes.md with Git command history"
-   14  git push
+    10 git add notes.md
+    11 git commit -m "Update notes.md with more Git commands"
+    12 git push
